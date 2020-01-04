@@ -24,7 +24,7 @@ end
 def reverse_array(array)
   reveresed_array = []
   array.each do |element|
-    reverse_array.unshift(element)
+    reversed_array.unshift(element)
   end
-  reverse_array
+  reversed_array
 end
