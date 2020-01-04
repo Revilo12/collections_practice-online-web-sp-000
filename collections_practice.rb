@@ -22,9 +22,9 @@ def swap_elements(array)
 end
 
 def reverse_array(array)
-  reveresed_array = []
+  r_array = []
   array.each do |element|
-    reversed_array.unshift(element)
+    r_array.unshift(element)
   end
-  reversed_array
+  r_array
 end
