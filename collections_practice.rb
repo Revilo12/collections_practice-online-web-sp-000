@@ -35,5 +35,5 @@ def kesha_maker(array)
     i[2] = "$"
     ar$ay << i 
   end
-  ar$ay
+  k_array
 end
