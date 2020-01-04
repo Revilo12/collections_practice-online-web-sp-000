@@ -20,3 +20,10 @@ end
 def swap_elements(array)
   swap_elements_from_to(array,1,2)
 end
+
+def reverse_array(array)
+  reveresed_array = []
+  array.each do |element|
+    reverse_array.unshift(element)
+  end
+end
